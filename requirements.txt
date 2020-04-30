@@ -4,6 +4,7 @@ alabaster==0.7.12
 anaconda-client==1.7.2
 anaconda-project==0.8.2
 arcgis==1.6.0
+arrow==0.15.5
 asgiref==3.2.7
 asn1crypto==0.24.0
 astor==0.7.1
